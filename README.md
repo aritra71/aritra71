@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aritrasarkar.dev@gmail.com**
 
-- ⚡ Fun fact **I find joy in perfecting every line of code, knowing that small details create powerful digital experiences**
+- ⚡ Fun fact **I find joy in perfecting every line of code, knowing that small details create powerful digital experiences!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
