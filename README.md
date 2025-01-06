@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://drive.google.com/uc?id=1vfh7srPAoSCCf2egR3DVpF3NN441FGc9" alt="Cover Image">
 </p>
-<h3 align="center">I'm Aritra Sarkar, a dedicated software engineer with expertise in software development, committed to crafting innovative and impactful solutions</h3>
+<h3 align="center">I'm Aritra Sarkar, a dedicated software engineer with expertise in software development, </br>committed to crafting innovative and impactful solutions</h3>
 
-- 🚀 Love to experiment with new technologies!!
+- 🚀 Love to learn new technologies!!
   
 - 👨‍💻 Experienced in building both frontend and backend systems
 
