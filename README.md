@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://drive.google.com/uc?id=1vfh7srPAoSCCf2egR3DVpF3NN441FGc9" alt="Cover Image">
 </p>
-<h1 align="center">Hi 👋, I'm Aritra Sarkar</h1>
-<h3 align="center">I'm Aritra Sarkar, a dedicated software engineer with expertise in web development, committed to crafting innovative and impactful solutions</h3>
+<h3 align="center">I'm Aritra Sarkar, a dedicated software engineer with expertise in software development, committed to crafting innovative and impactful solutions</h3>
 
-- 👨‍💻 All of my projects are available at [https://dev-aritra-sarkar.netlify.app/](https://dev-aritra-sarkar.netlify.app/)
+- 🚀 Love to experiment with new technologies!!
+  
+- 👨‍💻 Experienced in building both frontend and backend systems
 
 - 📫 How to reach me **aritrasarkar.dev@gmail.com**
 
