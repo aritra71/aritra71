@@ -3,9 +3,9 @@
 </p>
 <h3 align="center">I'm Aritra Sarkar, a dedicated software engineer with expertise in software development, committed to crafting innovative and impactful solutions</h3>
 
-- 🚀 Love to learn new technologies
+- 🚀 Love to learn new technologies!!
   
-- 👨‍💻 Experienced in building both frontend and backend systems
+- 👨‍💻 Experienced in building both frontend and backend systems.
 
 - 📫 How to reach me **aritrasarkar.dev@gmail.com**
 
