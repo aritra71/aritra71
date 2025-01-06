@@ -3,13 +3,13 @@
 </p>
 <h3 align="center">I'm Aritra Sarkar, a dedicated software engineer with expertise in software development, committed to crafting innovative and impactful solutions</h3>
 
-- 🚀 Love to learn new technologies!!
+- 🚀 Love to learn new technologies
   
 - 👨‍💻 Experienced in building both frontend and backend systems
 
 - 📫 How to reach me **aritrasarkar.dev@gmail.com**
 
-- ⚡ Fun fact **I find joy in perfecting every line of code, knowing that small details create powerful digital experiences!!**
+- ⚡ Fun fact **I find joy in perfecting every line of code, knowing that small details create powerful digital experiences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
