@@ -7,7 +7,7 @@
   
 - 👨‍💻 Experienced in building both frontend and backend systems.
 
-- 📫 How to reach me **aritrasarkar.dev@gmail.com**
+- 📧 How to reach me **aritrasarkar.dev@gmail.com**
 
 - ⚡ Fun fact **I find joy in perfecting every line of code, knowing that small details create powerful digital experiences!!**
 
